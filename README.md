@@ -2,7 +2,7 @@
 Я работаю над системой управления обучения (web приложение)<br>Я открыт к сотрудничеству<br>Я обучаюсь на выпускном курсе<br>Напиши мне, если тебя что-то интересует
 
 # 🌐 Socials:
-[![Static Badge](https://img.shields.io/badge/-%40Einzolg-blue?style=for-the-badge&logo=telegram&logoColor=Black)](https://t.me/einzolg) [![Static Badge](https://img.shields.io/badge/-%D0%9F%D0%BE%D0%BF%D0%BE%D0%B2%20%D0%98%D0%BB%D1%8C%D1%8F-blue?style=for-the-badge&logo=vk&logoColor=Black)](https://vk.com/hohenheimm) [![Static Badge](https://img.shields.io/badge/-iljapopov01%40mail.ru-blue?style=for-the-badge&logo=maildotru&logoColor=orange&link=mailto%3Ailjapopov01%40mail.ru)]
+[![Static Badge](https://img.shields.io/badge/-%40Einzolg-blue?style=for-the-badge&logo=telegram&logoColor=Black)](https://t.me/einzolg) [![Static Badge](https://img.shields.io/badge/-%D0%9F%D0%BE%D0%BF%D0%BE%D0%B2%20%D0%98%D0%BB%D1%8C%D1%8F-blue?style=for-the-badge&logo=vk&logoColor=Black)](https://vk.com/hohenheimm) [![Static Badge](https://img.shields.io/badge/-iljapopov01%40mail.ru-blue?style=for-the-badge&logo=maildotru&logoColor=orange)](mailto:iljapopov01@mail.ru)
 
 
 # 💻 Tech Stack:
